@@ -1,0 +1,10 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+34:76:C5:45:13:F2, 2017-12-04 19:28:55, 2017-12-05 19:21:53,  1,  54, WPA2, CCMP TKIP,PSK, -60,      467,      566, 192.168.  0.  7,  12, AirPort05106, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+2C:61:F6:94:26:D1, 2017-12-04 19:37:46, 2017-12-05 01:13:19, -76,      502, 34:76:C5:45:13:F2,
+00:22:CF:F4:66:81, 2017-12-04 20:15:07, 2017-12-04 20:15:07,  -1,        1, 34:76:C5:45:13:F2,
+00:12:F0:DF:BE:FD, 2017-12-04 19:37:11, 2017-12-04 20:05:07, -64,     1135, 34:76:C5:45:13:F2,
+24:26:42:10:92:25, 2017-12-04 22:49:50, 2017-12-05 00:07:18, -76,       11, 34:76:C5:45:13:F2,
+

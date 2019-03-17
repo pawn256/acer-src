@@ -1,0 +1,30 @@
+ 804841d:	e8 7e 00 00 00       	call   80484a0 <__gmon_start__@plt>
+Disassembly of section .plt:
+08048430 <setbuf@plt-0x10>:
+08048440 <setbuf@plt>:
+08048450 <strcmp@plt>:
+08048460 <printf@plt>:
+08048470 <fgets@plt>:
+08048480 <__stack_chk_fail@plt>:
+08048490 <puts@plt>:
+080484a0 <__gmon_start__@plt>:
+080484b0 <exit@plt>:
+080484c0 <mmap@plt>:
+080484d0 <strchr@plt>:
+080484e0 <__libc_start_main@plt>:
+ 804850c:	e8 cf ff ff ff       	call   80484e0 <__libc_start_main@plt>
+ 804862d:	e8 8e fe ff ff       	call   80484c0 <mmap@plt>
+ 8048643:	e8 38 fe ff ff       	call   8048480 <__stack_chk_fail@plt>
+ 804868b:	e8 b0 fd ff ff       	call   8048440 <setbuf@plt>
+ 80486a0:	e8 9b fd ff ff       	call   8048440 <setbuf@plt>
+ 80486c3:	e8 98 fd ff ff       	call   8048460 <printf@plt>
+ 80486e0:	e8 8b fd ff ff       	call   8048470 <fgets@plt> 	# input name
+ 80486ec:	e8 6f fd ff ff       	call   8048460 <printf@plt>
+ 804870c:	e8 5f fd ff ff       	call   8048470 <fgets@plt>  # input password 
+ 8048722:	e8 a9 fd ff ff       	call   80484d0 <strchr@plt>
+ 804874c:	e8 ff fc ff ff       	call   8048450 <strcmp@plt>
+ 804875c:	e8 2f fd ff ff       	call   8048490 <puts@plt>
+ 8048768:	e8 43 fd ff ff       	call   80484b0 <exit@plt>
+ 804877c:	e8 df fc ff ff       	call   8048460 <printf@plt>
+ 804879c:	e8 cf fc ff ff       	call   8048470 <fgets@plt>
+ 80487b6:	e8 c5 fc ff ff       	call   8048480 <__stack_chk_fail@plt>

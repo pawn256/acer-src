@@ -1,0 +1,6 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+02:1D:73:8E:A0:09, 2017-12-03 14:17:46, 2017-12-03 14:27:48,  7,  54, WPA , CCMP,PSK, -79,      664,        0,   0.  0.  0.  0,  14, 001D738EA009-1, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+

@@ -1,0 +1,8 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+C0:25:A2:B3:9D:2F, 2017-12-03 15:44:32, 2017-12-05 19:22:43,  4,  54, WPA2WPA , CCMP,PSK, -76,    46337,      236,   0.  0.  0.  0,  14, aterm-218f4b-g, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+84:89:AD:EB:27:EF, 2017-12-03 22:15:29, 2017-12-04 21:45:18,  -1,        4, C0:25:A2:B3:9D:2F,
+5C:51:81:30:59:9F, 2017-12-03 17:56:42, 2017-12-04 23:14:03, -86,       91, C0:25:A2:B3:9D:2F,
+

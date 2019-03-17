@@ -1,0 +1,9 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+84:AF:EC:26:43:A1, 2017-12-03 14:28:57, 2017-12-05 19:22:37,  5,  54, WPA2, CCMP,PSK, -78,   159684,    16060,   0.  0.  0.  0,  14, Buffalo-G-43A0, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+A8:66:7F:91:B7:14, 2017-12-03 14:31:24, 2017-12-05 01:13:46,   0,     4977, 84:AF:EC:26:43:A1,
+1C:67:58:88:D9:F4, 2017-12-03 14:30:11, 2017-12-03 22:29:27,   0,     1898, 84:AF:EC:26:43:A1,
+78:F8:82:A4:C2:22, 2017-12-03 14:28:57, 2017-12-05 00:39:14, -86,     1845, 84:AF:EC:26:43:A1,
+

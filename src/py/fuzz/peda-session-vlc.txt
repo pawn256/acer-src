@@ -1,0 +1,4 @@
+break *0x8049012
+break __libc_start_main
+break *__libc_start_main+239
+
